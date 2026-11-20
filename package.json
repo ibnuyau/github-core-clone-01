@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge: smart HTTP (upload-pack v2, receive-pack v0), REST v3, GraphQL, and MCP — pure TypeScript, no git binary, no outside service","engines":{"node":">=22.18"},"license":"MIT","name":"github-core-clone-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
